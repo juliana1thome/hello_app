@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is my first time learning ruby and learning how to deploy.
+I'm using wsl inside my windows machine. So, i can also develop my bad linux
+skills. 
+Also all the book used to learn this was Ruby on Rails Tutorial by Michael
+Hartl
